@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0087-scramble-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0087-scramble-string) |
 | [0131-palindrome-partitioning](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0087-scramble-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0087-scramble-string) |
 | [0131-palindrome-partitioning](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
