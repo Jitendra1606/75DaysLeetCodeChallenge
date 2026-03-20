@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0120-triangle) |
 | [0217-contains-duplicate](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0087-scramble-string) |
+| [0120-triangle](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
