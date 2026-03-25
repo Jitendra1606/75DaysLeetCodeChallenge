@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0474-ones-and-zeroes](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0474-ones-and-zeroes) |
+| [0678-valid-parenthesis-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0474-ones-and-zeroes](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0474-ones-and-zeroes) |
+| [0678-valid-parenthesis-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -130,9 +132,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0948-bag-of-tokens](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0948-bag-of-tokens) |
 ## Enumeration
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
