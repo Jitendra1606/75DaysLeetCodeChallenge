@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0474-ones-and-zeroes) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0931-minimum-falling-path-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [0948-bag-of-tokens](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0948-bag-of-tokens) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0474-ones-and-zeroes](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0931-minimum-falling-path-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 ## Backtracking
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0948-bag-of-tokens](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0948-bag-of-tokens) |
 ## Enumeration
 |  |
