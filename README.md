@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0087-scramble-string) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
