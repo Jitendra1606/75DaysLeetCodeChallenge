@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 ## Trie
