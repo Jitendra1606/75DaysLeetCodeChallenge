@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
