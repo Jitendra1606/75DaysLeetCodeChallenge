@@ -7,7 +7,7 @@ class Solution {
 
         long[] arr = new long[n];
         for(int i = 0 ; i < n ; i++){
-            arr[i] = nums[i] ;
+            arr[i] = nums[i] * 1l;
         }
         for(int i = 0 ; i < q ; i++){
             int idx = queries[i][0];
