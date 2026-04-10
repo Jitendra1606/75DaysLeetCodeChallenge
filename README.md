@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Sorting
 |  |
 | ------- |
