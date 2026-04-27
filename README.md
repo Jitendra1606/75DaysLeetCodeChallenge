@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0136-single-number](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -426,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
