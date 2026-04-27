@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0072-edit-distance) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 ## Memoization
 |  |
