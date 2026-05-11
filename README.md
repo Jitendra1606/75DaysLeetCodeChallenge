@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1861-rotating-the-box) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3582-generate-tag-for-video-caption](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3582-generate-tag-for-video-caption) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
