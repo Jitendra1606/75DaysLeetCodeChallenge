@@ -1,19 +1,20 @@
-class Solution {
-    public int search(int[] nums, int target) {
+class Solution{
+    public int search(int[] nums, int target){
         int n = nums.length;
+
         int start = 0, end = n - 1;
         while(start <= end){
+
             int mid = start + (end - start) / 2;
-            if(nums[mid] == target)
-                return mid;
-            
-            else if(nums[mid] < target){
-                start = mid + 1;
-            }
-            else{
-                end = mid - 1;
-            }
+
+            if(nums[mid] == target) return mid;
+
+            else if(nums[mid] < target) start = mid + 1;
+
+            else end = mid - 1;
         }
         return -1;
     }
 }
+//t.c = O(log n)
+//s.c = O(1)
