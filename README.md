@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [0948-bag-of-tokens](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1345-jump-game-iv](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1901-find-a-peak-element-ii) |
 ## Trie
