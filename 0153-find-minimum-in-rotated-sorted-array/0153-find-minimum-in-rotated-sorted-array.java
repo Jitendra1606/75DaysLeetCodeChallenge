@@ -1,20 +1,26 @@
-class Solution {
-    public int findMin(int[] nums) {
+class Solution{
+    public int findMin(int[] nums){
         int n = nums.length;
-        if(nums[0] < nums[n - 1]) return nums[0];
-        int start = 0, end = n - 1;
-        int ans = Integer.MAX_VALUE;
-        while(start <= end){
-            int mid = start + (end - start) / 2;
 
-            if(nums[start] <= nums[mid]){//means left part is sorted, so first element must be sorted
-                ans = Math.min(ans, nums[start]);
-                start = mid + 1; //our potential can be ahead of this also
+        if(nums[0] <= nums[n - 1]) return nums[0];
+
+        int low = 0, high = n - 1;
+        int ans = Integer.MAX_VALUE;
+
+        while(low <= high){
+
+            int mid = low + (high - low) / 2;
+            
+            if(nums[low] <= nums[mid]){ //left part is sorted,answer can be here alse
+                ans = Math.min(ans, nums[low]);
+                low = mid + 1;
             }else{
-                end = mid - 1;
-                ans = Math.min(ans, nums[mid]); //means it can be in the right part and first element here also is the smallest, and we need to check beyond from here
+                ans = Math.min(ans, nums[mid]);
+                high = mid - 1;
             }
         }
         return ans;
-    }
+    }    
 }
+//t.c = O(log n)
+//s.c = O(1)
