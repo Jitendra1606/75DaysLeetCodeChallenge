@@ -38,7 +38,7 @@ class Solution {
                     queue.offer(i + 1);
                     visited[i + 1] = true;
                 }
-                
+
                 //a[i] = a[j] , i != j
                 if(map.containsKey(arr[i]) && !set.contains(arr[i])){
                     for(int j : map.get(arr[i])){
