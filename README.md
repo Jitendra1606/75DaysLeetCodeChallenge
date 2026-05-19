@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
