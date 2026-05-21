@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1345-jump-game-iv) |
 | [2615-sum-of-distances](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Sorting
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3407-substring-matching-pattern](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3407-substring-matching-pattern) |
 | [3582-generate-tag-for-video-caption](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3582-generate-tag-for-video-caption) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Memoization
 |  |
 | ------- |
