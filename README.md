@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
