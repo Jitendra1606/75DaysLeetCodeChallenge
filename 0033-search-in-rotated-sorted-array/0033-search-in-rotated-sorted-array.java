@@ -1,27 +1,35 @@
-class Solution {
-    public int search(int[] nums, int target) {
-        int start = 0, end = nums.length - 1;
-        while(start <= end){
-            int mid = start + (end - start) / 2;
-            if(nums[mid] == target){
-                return mid;
-            }
-            //if not found , identify the sorted half(which part is sorted)
-            //if left part is sorted the
-            if(nums[start] <= nums[mid]){
-                if(nums[start] <= target && target <= nums[mid]){
-                    end = mid - 1;
+//here the array is rotated so any part is sorted like left or right [4,5,6,1,2,3] till 6 is sorted and then from 1 till 3 so we just need an extra if condition to check which part is sorted and in that portion our target lies or not
+class Solution{
+    public int search(int[] nums, int target){
+        int n = nums.length;
+        
+        int l = 0, h = n - 1;
+
+        while(l <= h){
+
+            int mid = l + (h - l) / 2;
+
+            if(nums[mid] == target) return mid;
+
+            else if(nums[l] <= nums[mid]){ //means left part is sorted
+
+                if(nums[l] <= target && target <= nums[mid]){
+                    h = mid - 1;
                 }else{
-                    start = mid + 1;
+                    l = mid + 1;
                 }
-            }else{
-                if(nums[mid] <= target && target <= nums[end]){
-                    start = mid + 1;
+            }
+            else{ //right part is sorted
+ 
+                if(nums[mid + 1] <= target && target <= nums[h]){
+                    l = mid + 1;
                 }else{
-                    end = mid - 1;
+                    h = mid - 1;
                 }
             }
         }
         return -1;
     }
 }
+//t.c = O(log n)
+//s.c = O(1)
