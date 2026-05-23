@@ -8,6 +8,5 @@ class Solution{
         return cnt > 1 ? false : true;
     }
 }
-
 //t.c = O(n)
 //s.c = O(1)
