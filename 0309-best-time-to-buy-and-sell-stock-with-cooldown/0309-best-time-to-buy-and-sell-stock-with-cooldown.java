@@ -2,7 +2,9 @@
 class Solution{
     public int maxProfit(int[] prices){
         int n = prices.length;
+
         int[][] dp = new int[n + 2][2];
+
         for(int ind = n - 1 ; ind >= 0 ; ind--){
             for(int buy = 0 ; buy <= 1 ; buy++){
                 if(buy == 1){
@@ -16,45 +18,63 @@ class Solution{
     }
 }
 
-// //memoization
-// class Solution {
-//     public int maxProfit(int[] prices) {
+
+
+//memoization
+// class Solution{
+//     public int maxProfit(int[] prices){
 //         int n = prices.length;
-//         int[][] dp = new int[n][2];
-//         for(int rows[] : dp){
-//             Arrays.fill(rows, -1);
-//         }
+
+//         int[][] dp = new int[n + 1][2];
+//         for(int[] row : dp) Arrays.fill(row, -1);
+
 //         return solve(0, 1, n, prices, dp);
 //     }
+
 //     public int solve(int ind, int buy, int n, int[] prices, int[][] dp){
 //         if(ind >= n) return 0;
+
 //         if(dp[ind][buy] != -1) return dp[ind][buy];
-//         int profit = 0;
+
 //         if(buy == 1){
-//             profit = Math.max(-prices[ind] + solve(ind + 1, 0, n, prices, dp), 0 + solve(ind + 1, 1, n, prices, dp));
-//         }else{
-//             profit = Math.max(prices[ind] + solve(ind + 2, 1, n, prices, dp), 0 + solve(ind + 1, 0, n, prices, dp));
+//             int take = -prices[ind] + solve(ind + 1, 0, n, prices, dp);
+//             int notTake = 0 + solve(ind + 1, 1, n, prices, dp);
+            
+//             return dp[ind][buy] = Math.max(take, notTake);
 //         }
-//         dp[ind][buy] = profit;
-//         return profit;
+//         else{
+//             int sell = prices[ind] + solve(ind + 2, 1, n, prices, dp);
+//             int notSell = 0 + solve(ind + 1, 0, n, prices, dp);
+
+//             return dp[ind][buy] = Math.max(sell, notSell);
+//         }
 //     }
 // }
 
 
-//recursive
-// class Solution {
-//     public int maxProfit(int[] prices) {
+
+//recusrive
+// class Solution{
+//     public int maxProfit(int[] prices){
 //         int n = prices.length;
+
 //         return solve(0, 1, n, prices);
 //     }
+
 //     public int solve(int ind, int buy, int n, int[] prices){
 //         if(ind >= n) return 0;
-//         int profit = 0;
+
 //         if(buy == 1){
-//             profit = Math.max(-prices[ind] + solve(ind + 1, 0, n, prices), 0 + solve(ind + 1, 1, n, prices));
-//         }else{
-//             profit = Math.max(prices[ind] + solve(ind + 2, 1, n, prices), 0 + solve(ind + 1, 0, n, prices));
+//             int take = -prices[ind] + solve(ind + 1, 0, n, prices);
+//             int notTake = 0 + solve(ind + 1, 1, n, prices);
+            
+//             return Math.max(take, notTake);
 //         }
-//         return profit;
+//         else{
+//             int sell = prices[ind] + solve(ind + 2, 1, n, prices);
+//             int notSell = 0 + solve(ind + 1, 0, n, prices);
+
+//             return Math.max(sell, notSell);
+//         }
 //     }
 // }
