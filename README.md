@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1306-jump-game-iii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1306-jump-game-iii) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1043-partition-array-for-maximum-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1463-cherry-pickup-ii) |
 | [1871-jump-game-vii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
