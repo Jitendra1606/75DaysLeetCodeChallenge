@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 | [1079-letter-tile-possibilities](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1079-letter-tile-possibilities) |
+| [1106-parsing-a-boolean-expression](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1106-parsing-a-boolean-expression) |
 | [1871-jump-game-vii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [1106-parsing-a-boolean-expression](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1106-parsing-a-boolean-expression) |
 ## Sliding Window
 |  |
 | ------- |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
+| [1106-parsing-a-boolean-expression](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1106-parsing-a-boolean-expression) |
 ## Graph Theory
 |  |
 | ------- |
