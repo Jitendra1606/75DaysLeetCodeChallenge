@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
@@ -579,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 ## Linked List
