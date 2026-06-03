@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0087-scramble-string) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
