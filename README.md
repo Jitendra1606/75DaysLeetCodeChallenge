@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0474-ones-and-zeroes) |
 | [0520-detect-capital](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0520-detect-capital) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
@@ -621,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
