@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1861-rotating-the-box) |
 | [1901-find-a-peak-element-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2104-sum-of-subarray-ranges) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1861-rotating-the-box) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3582-generate-tag-for-video-caption](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3582-generate-tag-for-video-caption) |
