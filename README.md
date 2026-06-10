@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0460-lfu-cache](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0460-lfu-cache) |
 ## Queue
 |  |
 | ------- |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0460-lfu-cache](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search Tree
 |  |
@@ -722,4 +725,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
