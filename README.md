@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0743-network-delay-time) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [1871-jump-game-vii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 ## String Matching
 |  |
 | ------- |
@@ -714,4 +718,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
