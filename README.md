@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0460-lfu-cache) |
+| [0491-non-decreasing-subsequences](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
+| [0491-non-decreasing-subsequences](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [1079-letter-tile-possibilities](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1079-letter-tile-possibilities) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -736,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+| [0491-non-decreasing-subsequences](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0491-non-decreasing-subsequences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Interactive
 |  |
