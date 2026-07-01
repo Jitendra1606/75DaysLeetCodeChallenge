@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1992-find-all-groups-of-farmland) |
 | [2536-increment-submatrices-by-one](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2536-increment-submatrices-by-one) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1992-find-all-groups-of-farmland) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2101-detonate-the-maximum-bombs) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -719,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1992-find-all-groups-of-farmland](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1992-find-all-groups-of-farmland) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2101-detonate-the-maximum-bombs) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Design
 |  |
@@ -825,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1905-count-sub-islands](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1905-count-sub-islands) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bit Manipulation
 |  |
