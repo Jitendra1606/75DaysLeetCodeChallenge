@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2104-sum-of-subarray-ranges) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2381-shifting-letters-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2381-shifting-letters-ii) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2536-increment-submatrices-by-one](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2536-increment-submatrices-by-one) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1901-find-a-peak-element-ii) |
 | [1905-count-sub-islands](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1992-find-all-groups-of-farmland) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2536-increment-submatrices-by-one](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2536-increment-submatrices-by-one) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1094-car-pooling) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3582-generate-tag-for-video-caption](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3582-generate-tag-for-video-caption) |
