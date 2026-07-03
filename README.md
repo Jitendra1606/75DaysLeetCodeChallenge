@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1463-cherry-pickup-ii) |
 | [1871-jump-game-vii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Backtracking
 |  |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
