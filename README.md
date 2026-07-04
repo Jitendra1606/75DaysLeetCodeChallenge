@@ -680,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1302-deepest-leaves-sum) |
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0997-find-the-town-judge](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -875,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
