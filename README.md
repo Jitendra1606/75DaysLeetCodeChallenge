@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3583-count-special-triplets](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3583-count-special-triplets) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3407-substring-matching-pattern](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3407-substring-matching-pattern) |
+| [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3582-generate-tag-for-video-caption](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3582-generate-tag-for-video-caption) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3614-process-string-with-special-operations-ii) |
 ## Dynamic Programming
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1079-letter-tile-possibilities) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2833-furthest-point-from-origin](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
+| [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3583-count-special-triplets](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3583-count-special-triplets) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Quickselect
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2101-detonate-the-maximum-bombs) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Simulation
 |  |
