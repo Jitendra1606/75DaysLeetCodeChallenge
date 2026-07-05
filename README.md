@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [1094-car-pooling](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1094-car-pooling) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0304-range-sum-query-2d-immutable) |
 | [0419-battleships-in-a-board](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0419-battleships-in-a-board) |
 | [0529-minesweeper](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
@@ -794,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0304-range-sum-query-2d-immutable) |
 | [0460-lfu-cache](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0460-lfu-cache) |
 ## Queue
 |  |
