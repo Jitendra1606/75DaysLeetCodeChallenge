@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1306-jump-game-iii) |
+| [1314-matrix-block-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1314-matrix-block-sum) |
 | [1345-jump-game-iv](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1345-jump-game-iv) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [1094-car-pooling](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1109-corporate-flight-bookings) |
+| [1314-matrix-block-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1314-matrix-block-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1162-as-far-from-land-as-possible) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1301-number-of-paths-with-max-score) |
+| [1314-matrix-block-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1314-matrix-block-sum) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1463-cherry-pickup-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1463-cherry-pickup-ii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
