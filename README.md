@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1463-cherry-pickup-ii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1711-count-good-meals](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1711-count-good-meals) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1079-letter-tile-possibilities) |
 | [1345-jump-game-iv](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1711-count-good-meals) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2615-sum-of-distances](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1288-remove-covered-intervals) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0948-bag-of-tokens](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
