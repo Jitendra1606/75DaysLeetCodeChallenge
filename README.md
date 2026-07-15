@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1905-count-sub-islands) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1992-find-all-groups-of-farmland](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1992-find-all-groups-of-farmland) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2101-detonate-the-maximum-bombs) |
 | [2104-sum-of-subarray-ranges](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2104-sum-of-subarray-ranges) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1901-find-a-peak-element-ii) |
 | [1905-count-sub-islands](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1992-find-all-groups-of-farmland) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2536-increment-submatrices-by-one](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2536-increment-submatrices-by-one) |
@@ -664,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2101-detonate-the-maximum-bombs) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
