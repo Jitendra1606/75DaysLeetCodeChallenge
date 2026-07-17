@@ -625,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0738-monotone-increasing-digits](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0738-monotone-increasing-digits) |
 | [0948-bag-of-tokens](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0948-bag-of-tokens) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [0738-monotone-increasing-digits](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0738-monotone-increasing-digits) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2101-detonate-the-maximum-bombs) |
