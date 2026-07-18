@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2844-minimum-operations-to-make-a-special-number](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2844-minimum-operations-to-make-a-special-number](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
 ## Enumeration
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1291-sequential-digits) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2844-minimum-operations-to-make-a-special-number](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -698,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2101-detonate-the-maximum-bombs) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2844-minimum-operations-to-make-a-special-number](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
