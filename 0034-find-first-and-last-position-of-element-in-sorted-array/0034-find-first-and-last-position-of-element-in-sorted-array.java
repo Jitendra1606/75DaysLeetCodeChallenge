@@ -1,79 +1,108 @@
-//we will find the first and last occurence of given number using differnet functions
-class Solution{
-    public int[] searchRange(int[] nums, int target){
-        int a = firstoccurence(nums,target);
-        if(a == -1){
-            return new int[]{-1,-1};
-        }
-        int b = lastoccurence(nums,target);
-        return new int[]{a , b};
-    }
-    public int firstoccurence(int[] nums , int target){
+// //we will find both occurences seperately using binary search
+class Solution {
+    public int[] searchRange(int[] nums, int target) {
         int n = nums.length;
-        int low = 0 , high = n - 1 , first = -1;
-        while(low <= high){
+
+        int a = firstOccurence(nums, target);
+        if (a == -1)
+            return new int[] { -1, -1 };
+
+        int b = secondOccurence(nums, target);
+        return new int[] { a, b };
+    }
+
+    public int firstOccurence(int[] nums, int target) {
+        int low = 0, high = nums.length - 1, ans = -1;
+
+        while (low <= high) {
             int mid = low + (high - low) / 2;
-            if(nums[mid] == target){
-                first = mid;
-                high = mid - 1;//for first occurence the possible answer must be on the left side
-            }else if(nums[mid] < target){
+
+            if (nums[mid] == target) {
+                ans = mid;
+                high = mid - 1;
+            } else if (nums[mid] > target) {
+                high = mid - 1;
+            } else {
                 low = mid + 1;
-            }else{
+            }
+        }
+        return ans;
+    }
+
+    public int secondOccurence(int[] nums, int target) {
+        int low = 0, high = nums.length - 1, ans = -1;
+
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+
+            if (nums[mid] == target) {
+                ans = mid;
+                low = mid + 1;
+            } else if (nums[mid] < target) {
+                low = mid + 1;
+            } else {
                 high = mid - 1;
             }
         }
-        return first;
-    }
-    public int lastoccurence(int[] nums , int target){
-        int n = nums.length;
-        int low = 0 , high = n - 1 , last = -1;
-        while(low <= high){
-            int mid = low + (high - low) / 2;
-            if(nums[mid] == target){
-                last = mid;
-                low = mid + 1;//for last occurence the possible answer must be on the right side of the array
-            }else if(nums[mid] < target){
-                low = mid + 1;
-            }else{
-                high = mid - 1;
-            }
-        }
-        return last;
+        return ans;
     }
 }
 
-
 // class Solution {
 //     public int[] searchRange(int[] nums, int target) {
-//         int[] ans = {-1 ,-1};
-//         int start = search(nums , target, true);
-//         int end = search(nums, target ,false);
-//         ans[0] = start;
-//         ans[1] = end;
-//         return ans;
+
+//         int a = firstOccurence(nums, target);
+//         if(a == -1) return new int[]{-1, -1};
+
+//         int b = lastOccurence(nums, target);
+//         return new int[]{a, b};
 //     }
-//     //this function just returns the index value of target
-//     int search(int[] nums, int target, boolean findsearchindex){
-//         int start = 0 ;
-//         int end = nums.length - 1;
-//         int ans = -1;
-//         while(start <= end){
-//             int mid = start + (end - start)/2;
-//             if(target < nums[mid]){
-//                 end = mid - 1;
+
+//     //for first occurence
+//     public int firstOccurence(int[] nums, int target){
+//         int n = nums.length;
+
+//         int l = 0, e = n - 1, first = -1;
+
+//         while(l <= e){
+
+//             int mid = l + (e - l) / 2;
+
+//             if(nums[mid] == target){
+//                 first = mid;
+//                 e = mid - 1;
 //             }
-//             else if(target > nums[mid]){
-//                 start = mid + 1;
-//             }
-//             else{
-//                 ans = mid;
-//                 if(findsearchindex){
-//                     end = mid - 1;
-//                 }else{
-//                     start = mid + 1;
-//                 }
+//             else if(nums[mid] > target){
+//                 e = mid - 1;
+//             }else{
+//                 l = mid + 1;
 //             }
 //         }
-//         return ans;
+//         return first;
+//     }
+
+//     //to find the last occurence we need to check in the right
+//     public int lastOccurence(int[] nums, int target){
+//         int n = nums.length;
+
+//         int l = 0, e = n - 1, last = -1;
+
+//         while(l <= e){
+
+//             int mid = l + (e - l) / 2;
+
+//             if(nums[mid] == target){
+//                 last = mid;
+//                 l = mid + 1;
+//             }
+//             else if(nums[mid] < target){
+//                 l = mid + 1;
+//             }else{
+//                 e = mid - 1;
+//             }
+//         }
+//         return last;
 //     }
 // }
+// //t.c = O(log n) + O(log n) ~ O(log n)
+// //s.c = O(1)
