@@ -4,7 +4,7 @@ class Solution {
         int n = nums.length;
         int cnt = 0;
 
-        Arrays.sort(nums);
+        // Arrays.sort(nums);
 
         for(int i = 0 ; i < n ; i++){
             if(nums[i] < k) cnt++;
