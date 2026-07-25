@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
+| [3536-maximum-product-of-two-digits](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
