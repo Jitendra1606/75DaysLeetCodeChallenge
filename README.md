@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3583-count-special-triplets](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3583-count-special-triplets) |
+| [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3620-network-recovery-pathways) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
