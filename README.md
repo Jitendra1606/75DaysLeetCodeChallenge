@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-number-of-ways-to-split-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2270-number-of-ways-to-split-array) |
 | [2295-replace-elements-in-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2295-replace-elements-in-an-array) |
 | [2381-shifting-letters-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2381-shifting-letters-ii) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2418-sort-the-people](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2418-sort-the-people) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2418-sort-the-people](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2418-sort-the-people) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2270-number-of-ways-to-split-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2270-number-of-ways-to-split-array) |
 | [2381-shifting-letters-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2381-shifting-letters-ii) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2536-increment-submatrices-by-one](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2536-increment-submatrices-by-one) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1901-find-a-peak-element-ii) |
 | [2055-plates-between-candles](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2055-plates-between-candles) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -674,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
