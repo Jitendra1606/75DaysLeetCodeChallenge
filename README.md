@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2536-increment-submatrices-by-one](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2536-increment-submatrices-by-one) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
+| [2592-maximize-greatness-of-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2592-maximize-greatness-of-an-array) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2615-sum-of-distances](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2592-maximize-greatness-of-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2592-maximize-greatness-of-an-array) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2592-maximize-greatness-of-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2592-maximize-greatness-of-an-array) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -685,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2592-maximize-greatness-of-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2592-maximize-greatness-of-an-array) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
