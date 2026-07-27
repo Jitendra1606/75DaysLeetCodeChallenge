@@ -3,33 +3,69 @@ class Solution {
     public boolean search(int[] nums, int target) {
         int n = nums.length;
 
-        int l = 0, h = n - 1;
+        int low = 0, high = n - 1;
 
-        while(l <= h){
-            int mid = l + (h - l) / 2;
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
 
-            if(nums[mid] == target) return true;
+            if (nums[mid] == target)
+                return true;
 
-            if(nums[l] == nums[mid] && nums[mid] == nums[h]){ //edge case [3,1,2,3,3,3,3], here
-                l++;  //how we can say which part is sorted ? bcz a[l] = a[mid] = a[h]
-                h--;  // so we'll trim down our search space and then normally do the bs
+            //edge case [3,1,2,3,3,3,3], here
+            if (nums[low] == nums[mid] && nums[mid] == nums[high]) {
+                low++; //how we can say which part is sorted ? bcz a[l] = a[mid] = a[h]
+                high--; // so we'll trim down our search space and then normally do the bs
+
                 continue;
-            }
-
-            if(nums[l] <= nums[mid]){
-                if(nums[l] <= target && target <= nums[mid]){
-                    h = mid - 1;
-                }else{
-                    l = mid + 1;
+            } else if (nums[low] <= nums[mid]) {
+                if (nums[low] <= target && target <= nums[mid]) {
+                    high = mid - 1;
+                } else {
+                    low = mid + 1;
                 }
-            }else{
-                if(nums[mid] <= target && target <= nums[h]){
-                    l = mid + 1;
-                }else{
-                    h = mid - 1;
+            } else {
+                if (nums[mid] <= target && target <= nums[high]) {
+                    low = mid + 1;
+                } else {
+                    high = mid - 1;
                 }
             }
         }
         return false;
     }
 }
+
+// class Solution {
+//     public boolean search(int[] nums, int target) {
+//         int n = nums.length;
+
+//         int l = 0, h = n - 1;
+
+//         while(l <= h){
+//             int mid = l + (h - l) / 2;
+
+//             if(nums[mid] == target) return true;
+
+//             if(nums[l] == nums[mid] && nums[mid] == nums[h]){ //edge case [3,1,2,3,3,3,3], here
+//                 l++;  //how we can say which part is sorted ? bcz a[l] = a[mid] = a[h]
+//                 h--;  // so we'll trim down our search space and then normally do the bs
+//                 continue;
+//             }
+
+//             if(nums[l] <= nums[mid]){
+//                 if(nums[l] <= target && target <= nums[mid]){
+//                     h = mid - 1;
+//                 }else{
+//                     l = mid + 1;
+//                 }
+//             }else{
+//                 if(nums[mid] <= target && target <= nums[h]){
+//                     l = mid + 1;
+//                 }else{
+//                     h = mid - 1;
+//                 }
+//             }
+//         }
+//         return false;
+//     }
+// }
