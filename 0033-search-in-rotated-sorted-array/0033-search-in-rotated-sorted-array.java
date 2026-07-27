@@ -1,35 +1,66 @@
 //here the array is rotated so any part is sorted like left or right [4,5,6,1,2,3] till 6 is sorted and then from 1 till 3 so we just need an extra if condition to check which part is sorted and in that portion our target lies or not
-class Solution{
-    public int search(int[] nums, int target){
+class Solution {
+    public int search(int[] nums, int target) {
         int n = nums.length;
-        
-        int l = 0, h = n - 1;
 
-        while(l <= h){
+        int low = 0, high = n - 1;
 
-            int mid = l + (h - l) / 2;
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
 
-            if(nums[mid] == target) return mid;
-
-            else if(nums[l] <= nums[mid]){ //means left part is sorted
-
-                if(nums[l] <= target && target <= nums[mid]){
-                    h = mid - 1;
-                }else{
-                    l = mid + 1;
-                }
+            if (nums[mid] == target) {
+                return mid;
             }
-            else{ //right part is sorted
- 
-                if(nums[mid + 1] <= target && target <= nums[h]){
-                    l = mid + 1;
-                }else{
-                    h = mid - 1;
+
+            else if (nums[low] <= nums[mid]) {
+                if (nums[low] <= target && target <= nums[mid]) {
+                    high = mid - 1;
+                } else {
+                    low = mid + 1;
+                }
+            } else {
+                if (nums[mid] <= target && target <= nums[high]) {
+                    low = mid + 1;
+                } else {
+                    high = mid - 1;
                 }
             }
         }
         return -1;
     }
 }
+
+// class Solution{
+//     public int search(int[] nums, int target){
+//         int n = nums.length;
+
+//         int l = 0, h = n - 1;
+
+//         while(l <= h){
+
+//             int mid = l + (h - l) / 2;
+
+//             if(nums[mid] == target) return mid;
+
+//             else if(nums[l] <= nums[mid]){ //means left part is sorted
+
+//                 if(nums[l] <= target && target <= nums[mid]){
+//                     h = mid - 1;
+//                 }else{
+//                     l = mid + 1;
+//                 }
+//             }
+//             else{ //right part is sorted
+
+//                 if(nums[mid + 1] <= target && target <= nums[h]){
+//                     l = mid + 1;
+//                 }else{
+//                     h = mid - 1;
+//                 }
+//             }
+//         }
+//         return -1;
+//     }
+// }
 //t.c = O(log n)
 //s.c = O(1)
