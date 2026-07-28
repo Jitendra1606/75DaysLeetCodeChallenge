@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3407-substring-matching-pattern](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3407-substring-matching-pattern) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3582-generate-tag-for-video-caption](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3582-generate-tag-for-video-caption) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -1146,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Merge Sort
 |  |
 | ------- |
