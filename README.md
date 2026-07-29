@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2206-divide-array-into-equal-pairs) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2270-number-of-ways-to-split-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2270-number-of-ways-to-split-array) |
 | [2295-replace-elements-in-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2295-replace-elements-in-an-array) |
 | [2381-shifting-letters-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2381-shifting-letters-ii) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1901-find-a-peak-element-ii) |
 | [2055-plates-between-candles](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2055-plates-between-candles) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
