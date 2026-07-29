@@ -5,7 +5,7 @@ class Solution {
         long min = Long.MAX_VALUE, ans = 0;
 
         for(int num : time) min = Math.min(min, num);
-        long low = 1, high = min * (int)totalTrips;
+        long low = 1, high = min * totalTrips;
 
         while(low <= high){
 
@@ -27,8 +27,10 @@ class Solution {
 
         for(int i = 0 ; i < n ; i++){
             cnt += (mid / nums[i]);
+
+            if(cnt >= k) return true;
         }
 
-        return cnt >= k;
+        return false;
     }
 }
