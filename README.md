@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1288-remove-covered-intervals) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1301-number-of-paths-with-max-score](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1306-jump-game-iii) |
 | [1314-matrix-block-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1314-matrix-block-sum) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1288-remove-covered-intervals) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
