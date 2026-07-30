@@ -656,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0754-reach-a-number](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0754-reach-a-number) |
@@ -800,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0738-monotone-increasing-digits](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0738-monotone-increasing-digits) |
 | [0754-reach-a-number](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0754-reach-a-number) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1648-sell-diminishing-valued-colored-balls) |
