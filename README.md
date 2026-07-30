@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1898-maximum-number-of-removable-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2055-plates-between-candles](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2055-plates-between-candles) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2055-plates-between-candles](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2055-plates-between-candles) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2270-number-of-ways-to-split-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2270-number-of-ways-to-split-array) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1898-maximum-number-of-removable-characters) |
 | [1901-find-a-peak-element-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1901-find-a-peak-element-ii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2055-plates-between-candles](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2055-plates-between-candles) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -782,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
