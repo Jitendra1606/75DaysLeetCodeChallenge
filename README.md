@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2536-increment-submatrices-by-one](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2536-increment-submatrices-by-one) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2536-increment-submatrices-by-one](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2536-increment-submatrices-by-one) |
 | [2574-left-and-right-sum-differences](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
@@ -748,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2592-maximize-greatness-of-an-array) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
@@ -807,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2528-maximize-the-minimum-powered-city) |
 ## Math
 |  |
 | ------- |
@@ -1042,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0918-maximum-sum-circular-subarray) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2528-maximize-the-minimum-powered-city) |
 ## String Matching
 |  |
 | ------- |
