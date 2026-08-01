@@ -1,26 +1,58 @@
+//What does solve(0,2) mean? It means:
+// From subarray [1,5,2], what is the maximum score difference :
+// (current player score - opponent score)
+// that the current player can achieve?
+
 class Solution{
-    
     public boolean predictTheWinner(int[] nums){
         int n = nums.length;
 
-        Integer[][] dp = new Integer[n][n];
-
-        int ans = solve(0, n - 1, nums, dp);
-        return ans >= 0;
+        return solve(0, n - 1, nums) >= 0;
     }
 
-    public int solve(int i, int j, int[] nums, Integer[][] dp){
-        if(i == j) return nums[i]; //when only one element left
+    public int solve(int i, int j, int[] nums){
+        if(i == j) return nums[i];
 
-        if(dp[i][j] != null) return dp[i][j];
+        int left = nums[i] - solve(i + 1, j, nums);
+        int right = nums[j] - solve(i, j - 1, nums);
 
-        int left = nums[i] - solve(i + 1, j, nums, dp);
-
-        int right = nums[j] - solve(i, j - 1, nums, dp);
-
-        return dp[i][j] = Math.max(left, right);
+        return Math.max(left, right);
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+// class Solution{
+//     public boolean predictTheWinner(int[] nums){
+//         int n = nums.length;
+
+//         Integer[][] dp = new Integer[n][n];
+
+//         int ans = solve(0, n - 1, nums, dp);
+//         return ans >= 0;
+//     }
+
+//     public int solve(int i, int j, int[] nums, Integer[][] dp){
+//         if(i == j) return nums[i]; //when only 1 element left
+
+//         if(dp[i][j] != null) return dp[i][j];
+
+//         int left = nums[i] - solve(i + 1, j, nums, dp);
+
+//         int right = nums[j] - solve(i, j - 1, nums, dp);
+
+//         return dp[i][j] = Math.max(left, right);
+//     }
+// }
 
 
 // class Solution{
