@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0826-most-profit-assigning-work) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0879-profitable-schemes) |
 | [0907-sum-of-subarray-minimums](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0918-maximum-sum-circular-subarray) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0879-profitable-schemes) |
 | [0907-sum-of-subarray-minimums](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0918-maximum-sum-circular-subarray) |
@@ -828,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0738-monotone-increasing-digits](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0738-monotone-increasing-digits) |
 | [0754-reach-a-number](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0754-reach-a-number) |
+| [0877-stone-game](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -1187,6 +1190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 ## Binary Indexed Tree
 |  |
 | ------- |
