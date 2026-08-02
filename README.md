@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
+| [1004-max-consecutive-ones-iii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1109-corporate-flight-bookings) |
 | [1314-matrix-block-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1314-matrix-block-sum) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0826-most-profit-assigning-work) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1300-sum-of-mutated-array-closest-to-target) |
@@ -808,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [1004-max-consecutive-ones-iii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
