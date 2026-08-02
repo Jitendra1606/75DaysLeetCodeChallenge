@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2055-plates-between-candles) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2381-shifting-letters-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2418-sort-the-people) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -818,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2528-maximize-the-minimum-powered-city) |
 ## Math
