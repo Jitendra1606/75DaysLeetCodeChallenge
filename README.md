@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2055-plates-between-candles) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2101-detonate-the-maximum-bombs) |
 | [2104-sum-of-subarray-ranges](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2104-sum-of-subarray-ranges) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2195-append-k-integers-with-minimal-sum) |
