@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0983-minimum-cost-for-tickets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0740-delete-and-earn](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0740-delete-and-earn) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1079-letter-tile-possibilities](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1079-letter-tile-possibilities) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0992-subarrays-with-k-different-integers) |
 | [1079-letter-tile-possibilities](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1079-letter-tile-possibilities) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2206-divide-array-into-equal-pairs) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -838,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
