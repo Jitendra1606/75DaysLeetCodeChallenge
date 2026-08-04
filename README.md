@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2206-divide-array-into-equal-pairs) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2261-k-divisible-elements-subarrays](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2261-k-divisible-elements-subarrays) |
 | [2270-number-of-ways-to-split-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2270-number-of-ways-to-split-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2295-replace-elements-in-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2295-replace-elements-in-an-array) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1711-count-good-meals) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2206-divide-array-into-equal-pairs) |
+| [2261-k-divisible-elements-subarrays](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2261-k-divisible-elements-subarrays) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2295-replace-elements-in-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2295-replace-elements-in-an-array) |
 | [2418-sort-the-people](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2418-sort-the-people) |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
+| [2261-k-divisible-elements-subarrays](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2261-k-divisible-elements-subarrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Memoization
 |  |
@@ -788,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1291-sequential-digits) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2261-k-divisible-elements-subarrays](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2261-k-divisible-elements-subarrays) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -1090,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+| [2261-k-divisible-elements-subarrays](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2261-k-divisible-elements-subarrays) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1271,4 +1276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2063-vowels-of-all-substrings) |
+## Rolling Hash
+|  |
+| ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2261-k-divisible-elements-subarrays) |
 <!---LeetCode Topics End-->
