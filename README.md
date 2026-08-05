@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1765-map-of-highest-peak](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1765-map-of-highest-peak) |
 | [1833-maximum-ice-cream-bars](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2055-plates-between-candles](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2055-plates-between-candles) |
@@ -717,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1898-maximum-number-of-removable-characters) |
@@ -774,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
@@ -847,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
