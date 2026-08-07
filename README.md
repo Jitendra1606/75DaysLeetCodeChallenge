@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0402-remove-k-digits) |
