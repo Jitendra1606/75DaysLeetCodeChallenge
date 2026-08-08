@@ -8,14 +8,11 @@ class Solution {
             int second = queries[i][1];
 
             diff[first] -= 1;
-
-            if (second + 1 <= n) {
-                diff[second + 1] += 1;
-            }
+            diff[second + 1] += 1;
         }
 
         for (int i = 1; i < n; i++) {
-            diff[i] = diff[i - 1] + diff[i];
+            diff[i] += diff[i - 1];
         }
 
         for (int i = 0; i < n; i++) {
