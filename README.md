@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3355-zero-array-transformation-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3355-zero-array-transformation-i) |
+| [3356-zero-array-transformation-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3356-zero-array-transformation-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2845-count-of-interesting-subarrays](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2845-count-of-interesting-subarrays) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3355-zero-array-transformation-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3355-zero-array-transformation-i) |
+| [3356-zero-array-transformation-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3356-zero-array-transformation-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2592-maximize-greatness-of-an-array) |
+| [3356-zero-array-transformation-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3356-zero-array-transformation-ii) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -743,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
+| [3356-zero-array-transformation-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3356-zero-array-transformation-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3620-network-recovery-pathways) |
 ## Trie
