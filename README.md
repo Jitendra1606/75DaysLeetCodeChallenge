@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
+| [0224-basic-calculator](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
@@ -828,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
@@ -872,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0172-factorial-trailing-zeroes) |
+| [0224-basic-calculator](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0396-rotate-function](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
@@ -1164,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
