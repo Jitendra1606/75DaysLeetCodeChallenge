@@ -7,7 +7,7 @@ class Solution {
         int res = 0, curr = 0, sign = 1;
 
         for(char ch : s.toCharArray()){
-            
+
             if(Character.isDigit(ch)){
                 curr = curr * 10 + (ch - '0');
             }
@@ -18,24 +18,25 @@ class Solution {
             }
             else if(ch == '-'){
                 res += curr * sign;
-                sign = -1;
                 curr = 0;
+                sign = -1;
             }
             else if(ch == '('){
                 st.push(res);
                 st.push(sign);
+                curr = 0;
                 res = 0;
                 sign = 1;
-                curr = 0;
-            }else if(ch == ')'){
+            }
+            else if(ch == ')'){
                 res += curr * sign;
                 curr = 0;
-                res *= st.pop();
-                res += st.pop();
+                res *= st.pop(); //for sign
+                res += st.pop(); //already computed result before parantheses
             }
         }
 
-        res += sign * curr;
+        res += curr * sign;
         return res;
     }
 }
