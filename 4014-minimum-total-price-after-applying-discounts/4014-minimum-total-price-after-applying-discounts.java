@@ -10,7 +10,7 @@ class Solution {
         int i = n - 1, j = m - 1;
 
         while(i >= 0 && j >= 0){
-            sum += (double)(((double)prices[i] * (100 - (double)discounts[j])) / 100);
+            sum += (prices[i] * (100 - discounts[j]) / 100.00);
             i--;
             j--;
         }
