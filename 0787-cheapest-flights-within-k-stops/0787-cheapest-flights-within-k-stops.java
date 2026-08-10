@@ -3,7 +3,7 @@ class Solution {
         List<List<Pair>> adj = new ArrayList<>();
 
         for (int i = 0; i < n; i++) {
-            adj.add(new ArrayList());
+            adj.add(new ArrayList<>());
         }
 
         for (int[] fly : flights) {
@@ -14,21 +14,20 @@ class Solution {
             adj.get(u).add(new Pair(v, cost));
         }
 
-        Queue<Tuple> q = new LinkedList<>();
-
-        q.offer(new Tuple(0, src, 0)); //{stops, {node, dist}}
-
         int[] dist = new int[n];
         Arrays.fill(dist, (int) (1e9));
 
         dist[src] = 0;
+
+        Queue<Tuple> q = new LinkedList<>();
+        q.offer(new Tuple(0, src, 0)); //{stops, {node, dist}}
 
         while (!q.isEmpty()) {
             Tuple cur = q.poll();
 
             int stops = cur.first;
             int node = cur.second;
-            int cost = cur.third;
+            int distance = cur.third;
 
             if (stops > k)
                 continue;
@@ -37,14 +36,15 @@ class Solution {
                 int adjNode = p.first;
                 int adjDist = p.second;
 
-                if (stops <= k && cost + adjDist < dist[adjNode]) {
-                    dist[adjNode] = cost + adjDist;
+                if (stops <= k && dist[adjNode] > adjDist + distance) {
+                    dist[adjNode] = adjDist + distance;
 
-                    q.offer(new Tuple(stops + 1, adjNode, cost + adjDist));
+                    q.offer(new Tuple(stops + 1, adjNode, distance + adjDist));
                 }
             }
         }
-        if (dist[dst] == (int) 1e9)
+
+        if (dist[dst] == (int) (1e9))
             return -1;
 
         return dist[dst];
