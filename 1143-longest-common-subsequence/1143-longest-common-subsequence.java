@@ -1,35 +1,56 @@
 class Solution{
     public int longestCommonSubsequence(String text1, String text2){
         int n = text1.length(), m = text2.length();
-
         Integer[][] dp = new Integer[n + 1][m + 1];
-
-        for(int i = 0 ; i < n + 1 ; i++) dp[i][0] = 0;
-        for(int j = 0 ; j < m + 1 ; j++) dp[0][j] = 0;
-
-        for(int i = 1 ; i < n + 1 ; i++){
-            for(int j = 1 ; j < m + 1 ; j++){
-                if(text1.charAt(i - 1) == text2.charAt(j - 1)){
-                    dp[i][j] = 1 + dp[i - 1][j - 1];
-                }else{
-                    dp[i][j] = Math.max(dp[i][j - 1], dp[i - 1][j]);
-                }
-            }
-        }
-        return dp[n][m];
+        return solve(n , m, text1, text2, dp);
     }
 
-    public int solve(int i, int j, String s, String t, Integer[][] dp){
-        if(i <= 0 || j <= 0) return 0;
+    public int solve(int i, int j, String s1, String s2, Integer[][] dp){
+        if(i == 0 || j == 0) return 0;
 
         if(dp[i][j] != null) return dp[i][j];
 
-        if(s.charAt(i - 1) == t.charAt(j - 1)){
-            return dp[i][j] = 1 + solve(i - 1, j - 1, s, t, dp);
+        if(s1.charAt(i - 1) == s2.charAt(j - 1)){
+            return dp[i][j] = 1 + solve(i - 1, j - 1, s1, s2, dp);
+        }else{
+            return dp[i][j] = Math.max(solve(i - 1, j, s1, s2, dp), solve(i, j - 1, s1, s2, dp));
         }
-        return dp[i][j] = Math.max(solve(i - 1, j, s, t, dp), solve(i, j - 1, s, t, dp));
     }
 }
+
+
+// class Solution{
+//     public int longestCommonSubsequence(String text1, String text2){
+//         int n = text1.length(), m = text2.length();
+
+//         Integer[][] dp = new Integer[n + 1][m + 1];
+
+//         for(int i = 0 ; i < n + 1 ; i++) dp[i][0] = 0;
+//         for(int j = 0 ; j < m + 1 ; j++) dp[0][j] = 0;
+
+//         for(int i = 1 ; i < n + 1 ; i++){
+//             for(int j = 1 ; j < m + 1 ; j++){
+//                 if(text1.charAt(i - 1) == text2.charAt(j - 1)){
+//                     dp[i][j] = 1 + dp[i - 1][j - 1];
+//                 }else{
+//                     dp[i][j] = Math.max(dp[i][j - 1], dp[i - 1][j]);
+//                 }
+//             }
+//         }
+//         return dp[n][m];
+//     }
+
+//     public int solve(int i, int j, String s, String t, Integer[][] dp){
+//         if(i <= 0 || j <= 0) return 0;
+
+//         if(dp[i][j] != null) return dp[i][j];
+
+//         if(s.charAt(i - 1) == t.charAt(j - 1)){
+//             return dp[i][j] = 1 + solve(i - 1, j - 1, s, t, dp);
+//         }
+//         return dp[i][j] = Math.max(solve(i - 1, j, s, t, dp), solve(i, j - 1, s, t, dp));
+//     }
+// }
 
 
 //top down dp
