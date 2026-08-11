@@ -15,11 +15,41 @@ class Solution {
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 if (!visited[i][j] && grid[i][j] == 1) {
-                    ans = Math.max(ans, dfs(i, j, grid));
+                    ans = Math.max(ans, bfs(i, j, grid));
+                    // ans = Math.max(ans, dfs(i, j, grid));
                 }
             }
         }
         return ans;
+    }
+
+    public int bfs(int i, int j, int[][] grid){
+        Queue<int[]> q = new LinkedList<>();
+        q.offer(new int[]{i, j});
+        
+        visited[i][j] = true;
+        
+        int area = 1;
+
+        while(!q.isEmpty()){
+            int[] mat = q.poll();
+
+            int r = mat[0];
+            int c = mat[1];
+
+            for(int k = 0 ; k < 4 ; k++){
+                int newr = r + drow[k];
+                int newc = c + dcol[k];
+
+                if(newr >= 0 && newc >= 0 && newr < n && newc < m && !visited[newr][newc] && grid[newr][newc] == 1){
+
+                    visited[newr][newc] = true;
+                    area++;
+                    q.offer(new int[]{newr, newc});
+                }
+            }
+        }
+        return area;
     }
 
     public int dfs(int i, int j, int[][] grid) {
