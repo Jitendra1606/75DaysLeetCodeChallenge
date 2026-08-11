@@ -2,16 +2,16 @@ class Solution{
     public int rob(int[] nums){
         int n = nums.length;
 
-        return solve(n - 1, nums);
+        return solve(0, n - 1, nums);
     }
 
-    public int solve(int i, int[] nums){
-        if(i == 0) return nums[0];
+    public int solve(int i, int n, int[] nums){
+        if(i == n) return nums[n];
 
-        if(i < 0) return 0;
+        if(i > n) return 0;
 
-        int pick = nums[i] + solve(i - 2, nums);
-        int notPick = solve(i - 1, nums);
+        int pick = nums[i] + solve(i + 2, n, nums);
+        int notPick = solve(i + 1, n, nums);
 
         return Math.max(pick, notPick);
     }
