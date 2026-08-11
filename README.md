@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2845-count-of-interesting-subarrays](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2845-count-of-interesting-subarrays) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-first-completely-painted-row-or-column](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2661-first-completely-painted-row-or-column) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2845-count-of-interesting-subarrays](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2845-count-of-interesting-subarrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
