@@ -1,109 +1,127 @@
-class Solution{
-    boolean[][] visited;
+class Solution {
     int n, m;
-    int[] drow = {-1, 0, 1, 0};
-    int[] dcol = {0, 1, 0, -1};
-    public int maxAreaOfIsland(int[][] grid){
+    boolean[][] visited;
+
+    int[] drow = { -1, 0, 1, 0 };
+    int[] dcol = { 0, 1, 0, -1 };
+
+    public int maxAreaOfIsland(int[][] grid) {
         n = grid.length;
         m = grid[0].length;
 
         visited = new boolean[n][m];
-        int max = 0;
+        int ans = 0;
 
-        for(int i = 0 ; i < n ; i++){
-            for(int j = 0 ; j < m ; j++){
-                if(grid[i][j] == 1 && !visited[i][j]){
-                    max = Math.max(max, dfs(i, j, grid));
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (!visited[i][j] && grid[i][j] == 1) {
+                    ans = Math.max(ans, dfs(i, j, grid));
                 }
             }
         }
-        return max;
+        return ans;
     }
 
-    public int dfs(int row, int col, int[][] grid){
-        visited[row][col] = true;
-        int cnt = 1;
+    public int dfs(int i, int j, int[][] grid) {
+        visited[i][j] = true;
+        int area = 1;
 
-        for(int i = 0 ; i < 4 ; i++){
-            int newr = drow[i] + row;
-            int newc = dcol[i] + col;
+        for (int k = 0; k < 4; k++) {
+            int newr = drow[k] + i;
+            int newc = dcol[k] + j;
 
-            if(newr < n && newc < m && newr >= 0 && newc >= 0 && !visited[newr][newc] && grid[newr][newc] == 1){
-                cnt += dfs(newr, newc, grid);
+            if (newr >= 0 && newc >= 0 && newr < n && newc < m && !visited[newr][newc] && grid[newr][newc] == 1) {
+                area += dfs(newr, newc, grid);
             }
         }
-        return cnt;
+        return area;
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// class Solution {
+// //bfs
+// class Solution{
 //     boolean[][] visited;
-//     int m, n;
-//     int[] dRow = {-1, 0, 1, 0};
-//     int[] dCol = {0, 1, 0, -1};
+//     int n, m;
+//     int[] drow = {-1, 0, 1, 0};
+//     int[] dcol = {0, 1, 0, -1};
+//     public int maxAreaOfIsland(int[][] grid){
+//         n = grid.length;
+//         m = grid[0].length;
 
-//     public int maxAreaOfIsland(int[][] grid) {
-//         m = grid.length;
-//         n = grid[0].length;
-//         visited = new boolean[m][n];
-//         int maxArea = 0;
+//         visited = new boolean[n][m];
+//         int max = 0;
 
-//         for(int i = 0 ; i < m ; i++){
-//             for(int j = 0 ; j < n ; j++){
+//         for(int i = 0 ; i < n ; i++){
+//             for(int j = 0 ; j < m ; j++){
 //                 if(grid[i][j] == 1 && !visited[i][j]){
-//                     maxArea = Math.max(maxArea, dfs(i, j, grid));
+//                     max = Math.max(max, bfs(i, j, grid));
 //                 }
 //             }
-//         }    
-//         return maxArea;
+//         }
+//         return max;
 //     }
-//     public int dfs(int r, int c, int[][] grid){
-//         visited[r][c] = true;
-//         int area = 1;
-//         for(int i = 0 ; i < 4 ; i++){
-//             int nRow = r + dRow[i];
-//             int nCol = c + dCol[i];
 
-//             if(nRow >= 0 && nCol >= 0 && nRow < m && nCol < n && !visited[nRow][nCol] && grid[nRow][nCol] == 1){
-//                 area += dfs(nRow, nCol, grid);
+//     public int bfs(int row, int col, int[][] grid){
+//         Queue<int[]> q = new LinkedList<>();
+//         q.offer(new int[]{row, col});
+//         visited[row][col] = true;
+
+//         int area = 1;
+//         while(!q.isEmpty()){
+//             int[] curr = q.poll();
+//             int r = curr[0];
+//             int c = curr[1];
+
+//             for(int i = 0 ; i < 4 ; i++){
+//                 int newr = drow[i] + r;
+//                 int newc = dcol[i] + c;
+
+//                 if(newr >= 0 && newc >= 0 && newr < n && newc < m && !visited[newr][newc] && grid[newr][newc] == 1){
+//                     visited[newr][newc] = true;
+//                     area++;
+//                     q.offer(new int[]{newr, newc});
+//                 }
 //             }
 //         }
 //         return area;
 //     }
 // }
+
+// //dfs
+// // class Solution{
+// //     boolean[][] visited;
+// //     int n, m;
+// //     int[] drow = {-1, 0, 1, 0};
+// //     int[] dcol = {0, 1, 0, -1};
+// //     public int maxAreaOfIsland(int[][] grid){
+// //         n = grid.length;
+// //         m = grid[0].length;
+
+// //         visited = new boolean[n][m];
+// //         int max = 0;
+
+// //         for(int i = 0 ; i < n ; i++){
+// //             for(int j = 0 ; j < m ; j++){
+// //                 if(grid[i][j] == 1 && !visited[i][j]){
+// //                     max = Math.max(max, dfs(i, j, grid));
+// //                 }
+// //             }
+// //         }
+// //         return max;
+// //     }
+
+// //     public int dfs(int row, int col, int[][] grid){
+// //         visited[row][col] = true;
+// //         int cnt = 1;
+
+// //         for(int i = 0 ; i < 4 ; i++){
+// //             int newr = drow[i] + row;
+// //             int newc = dcol[i] + col;
+
+// //             if(newr < n && newc < m && newr >= 0 && newc >= 0 && !visited[newr][newc] && grid[newr][newc] == 1){
+// //                 cnt += dfs(newr, newc, grid);
+// //             }
+// //         }
+// //         return cnt;
+// //     }
+// // }
