@@ -1,20 +1,40 @@
 class Solution{
     public int rob(int[] nums){
         int n = nums.length;
-        if(n == 1) return nums[0];
-        int[] dp = new int[n + 1];
-        dp[0] = 0;
-        dp[1] = nums[0];
-        dp[2] = Math.max(nums[0], nums[1]);
 
-        for(int i = 3 ; i < n + 1 ; i++){
-            int temp = nums[i - 1] + dp[i - 2];
-            int temp1 = dp[i - 1];
-            dp[i] = Math.max(temp, temp1);
-        }
-        return dp[n];
+        return solve(n - 1, nums);
+    }
+
+    public int solve(int i, int[] nums){
+        if(i == 0) return nums[0];
+
+        if(i < 0) return 0;
+
+        int pick = nums[i] + solve(i - 2, nums);
+        int notPick = solve(i - 1, nums);
+
+        return Math.max(pick, notPick);
     }
 }
+
+
+// class Solution{
+//     public int rob(int[] nums){
+//         int n = nums.length;
+//         if(n == 1) return nums[0];
+//         int[] dp = new int[n + 1];
+//         dp[0] = 0;
+//         dp[1] = nums[0];
+//         dp[2] = Math.max(nums[0], nums[1]);
+
+//         for(int i = 3 ; i < n + 1 ; i++){
+//             int temp = nums[i - 1] + dp[i - 2];
+//             int temp1 = dp[i - 1];
+//             dp[i] = Math.max(temp, temp1);
+//         }
+//         return dp[n];
+//     }
+// }
 
 // class Solution{
 //     public int rob(int[] nums){
