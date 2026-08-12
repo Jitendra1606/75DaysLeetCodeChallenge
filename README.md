@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2063-vowels-of-all-substrings](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2063-vowels-of-all-substrings) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3620-network-recovery-pathways](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3620-network-recovery-pathways) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -919,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2063-vowels-of-all-substrings) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2101-detonate-the-maximum-bombs) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2750-ways-to-split-array-into-good-subarrays) |
@@ -1340,6 +1342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2063-vowels-of-all-substrings) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 ## Rolling Hash
 |  |
 | ------- |
