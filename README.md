@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Math
 |  |
