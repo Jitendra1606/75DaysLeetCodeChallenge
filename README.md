@@ -911,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
+| [0365-water-and-jug-problem](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
 | [0396-rotate-function](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
@@ -1019,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
+| [0365-water-and-jug-problem](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
 | [0419-battleships-in-a-board](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0419-battleships-in-a-board) |
 | [0529-minesweeper](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0529-minesweeper) |
 | [0543-diameter-of-binary-tree](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
@@ -1097,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
 | [0433-minimum-genetic-mutation](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0433-minimum-genetic-mutation) |
 | [0529-minesweeper](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
@@ -1389,4 +1392,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
