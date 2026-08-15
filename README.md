@@ -935,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [2543-check-if-point-is-reachable](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2543-check-if-point-is-reachable) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
@@ -1352,6 +1353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [2543-check-if-point-is-reachable](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2543-check-if-point-is-reachable) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
@@ -1403,10 +1405,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
+| [2543-check-if-point-is-reachable](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2543-check-if-point-is-reachable) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
+| [2543-check-if-point-is-reachable](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2543-check-if-point-is-reachable) |
 ## Extended Euclidean Algorithm
 |  |
 | ------- |
