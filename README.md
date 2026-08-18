@@ -912,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -1220,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
