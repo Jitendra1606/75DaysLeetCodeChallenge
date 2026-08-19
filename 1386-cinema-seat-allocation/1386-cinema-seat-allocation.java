@@ -38,3 +38,31 @@ class Solution {
         return ans;
     }
 }
+
+
+// 2. Why OR?
+
+// Suppose row 1 already has seat 2 occupied.
+
+// origin = 00000001
+
+// Now we encounter seat 5.
+
+// 1 << (5 - 2)
+// = 1 << 3
+// = 00001000
+
+// Then:
+
+// value = origin | (1 << (seat[1] - 2));
+
+// becomes:
+
+//   00000001   // seat 2 already occupied
+// | 00001000   // mark seat 5 occupied
+// -----------
+//   00001001   // seats 2 and 5 occupied
+
+// So OR basically means:
+
+// Keep all previously occupied seats AND mark this new seat as occupied.
