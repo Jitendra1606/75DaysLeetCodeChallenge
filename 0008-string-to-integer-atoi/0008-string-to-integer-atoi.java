@@ -5,6 +5,7 @@ class Solution{
 
     public int atoi(String s){
         int i = 0;
+        long num = 0;
 
         while(i < s.length() && s.charAt(i) == ' ') i++;
 
@@ -14,20 +15,31 @@ class Solution{
             i++;
         }
 
-        return toDigit(s, i, 0, sign);
-    }
+        // return toDigit(s, i, 0, sign);
 
-    public int toDigit(String s, int i, long num, int sign){
         while(i < s.length() && Character.isDigit(s.charAt(i))){
             num = num * 10 + (s.charAt(i) - '0');
 
-            if(num * sign > Integer.MAX_VALUE) return Integer.MAX_VALUE;
-            if(num * sign < Integer.MIN_VALUE) return Integer.MIN_VALUE;
+            if(sign * num > Integer.MAX_VALUE) return Integer.MAX_VALUE;
+            if(sign * num < Integer.MIN_VALUE) return Integer.MIN_VALUE;
 
             i++;
         }
+
         return (int)(sign * num);
     }
+
+    // public int toDigit(String s, int i, long num, int sign){
+    //     while(i < s.length() && Character.isDigit(s.charAt(i))){
+    //         num = num * 10 + (s.charAt(i) - '0');
+
+    //         if(num * sign > Integer.MAX_VALUE) return Integer.MAX_VALUE;
+    //         if(num * sign < Integer.MIN_VALUE) return Integer.MIN_VALUE;
+
+    //         i++;
+    //     }
+    //     return (int)(sign * num);
+    // }
 }
 
 
