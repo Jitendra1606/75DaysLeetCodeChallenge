@@ -6,58 +6,56 @@ class NumArray {
         n = nums.length;
         segment = new int[4 * n];
 
-        buildSegment(0, 0, n - 1, nums);
+        buildSegment(0, 0, n - 1, nums, segment);
     }
-
+    
     public void update(int index, int val) {
-        updateSegment(index, val, 0, 0, n - 1); //update point in a segment tree
+        updateQuery(index, val, 0, 0, n - 1);
     }
-
+    
     public int sumRange(int left, int right) {
-        return querySegment(left, right, 0, 0, n - 1); //range query
+        return rangeQuery(left, right, 0, 0, n - 1);
     }
 
-    public void buildSegment(int i, int l, int r, int[] nums) {
-        if (l == r) {
+    public void buildSegment(int i, int l, int r, int[] nums, int[] segment){
+        if(l == r){
             segment[i] = nums[l];
             return;
         }
 
         int mid = l + (r - l) / 2;
 
-        buildSegment(2 * i + 1, l, mid, nums);
-        buildSegment(2 * i + 2, mid + 1, r, nums);
+        buildSegment(2 * i + 1, l, mid, nums, segment);
+        buildSegment(2 * i + 2, mid + 1, r, nums, segment);
 
         segment[i] = segment[2 * i + 1] + segment[2 * i + 2];
     }
 
-    public void updateSegment(int index, int val, int i, int l, int r) {
-        if (l == r) {
+    public void updateQuery(int index, int val, int i, int l, int r){
+        if(l == r){
             segment[i] = val;
             return;
         }
 
         int mid = l + (r - l) / 2;
 
-        if (index <= mid) {
-            updateSegment(index, val, 2 * i + 1, l, mid);
-        } else {
-            updateSegment(index, val, 2 * i + 2, mid + 1, r);
+        if(index <= mid){
+            updateQuery(index, val, 2 * i + 1, l, mid);
+        }else{
+            updateQuery(index, val, 2 * i + 2, mid + 1, r);
         }
+
         segment[i] = segment[2 * i + 1] + segment[2 * i + 2];
     }
 
-    public int querySegment(int start, int end, int i, int l, int r) {
-        if (l > end || r < start)
-            return 0;
+    public int rangeQuery(int start, int end, int i, int l, int r){
+        if(l > end || r < start) return 0;
 
-        if (l >= start && r <= end) {
-            return segment[i];
-        }
+        if(l >= start && r <= end) return segment[i];
 
         int mid = l + (r - l) / 2;
 
-        return querySegment(start, end, 2 * i + 1, l, mid) + querySegment(start, end, 2 * i + 2, mid + 1, r);
+        return rangeQuery(start, end, 2 * i + 1, l, mid) + rangeQuery(start, end, 2 * i + 2, l, r);
     }
 }
 
