@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0304-range-sum-query-2d-immutable) |
 | [0419-battleships-in-a-board](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0419-battleships-in-a-board) |
+| [0498-diagonal-traverse](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
@@ -1001,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1094-car-pooling) |
