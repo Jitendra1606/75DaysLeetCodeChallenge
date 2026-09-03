@@ -45,12 +45,16 @@ class Solution {
                 while (nums[i] == '0')
                     i++;
 
-                char temp = nums[i];
-                nums[i] = nums[0];
-                nums[0] = temp;
+                // char temp = nums[i];
+                // nums[i] = nums[0];
+                // nums[0] = temp;
+
+                sb.append(nums[i]);
 
                 for (int k = 0; k < nums.length; k++) {
-                    sb.append(nums[k]);
+                    if(k != i){
+                        sb.append(nums[k]);
+                    }
                 }
 
                 Long ans = Long.parseLong(sb.toString());
