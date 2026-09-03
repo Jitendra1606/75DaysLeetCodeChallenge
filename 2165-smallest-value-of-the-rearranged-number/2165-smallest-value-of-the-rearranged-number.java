@@ -1,15 +1,18 @@
 class Solution {
     public long smallestNumber(long num) {
         if(num == 0) return 0;
-        
+
         if (num < 0) {
-            char[] nums = String.valueOf(num).toCharArray();
+            // char[] nums = String.valueOf(num).toCharArray();
+            String s = String.valueOf(num).substring(1);
+
+            char[] nums = s.toCharArray();
 
             Arrays.sort(nums);
 
             StringBuilder sb = new StringBuilder();
 
-            for (int i = nums.length - 1; i > 0; i--) {
+            for (int i = nums.length - 1; i >= 0; i--) {
                 sb.append(nums[i]);
             }
 
