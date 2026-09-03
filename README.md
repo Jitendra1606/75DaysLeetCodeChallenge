@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -979,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2063-vowels-of-all-substrings](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2063-vowels-of-all-substrings) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2101-detonate-the-maximum-bombs) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
