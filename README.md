@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3919-minimum-cost-to-move-between-indices) |
 ## Hash Table
 |  |
 | ------- |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3919-minimum-cost-to-move-between-indices) |
 ## Matrix
 |  |
 | ------- |
@@ -879,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3919-minimum-cost-to-move-between-indices) |
 ## Enumeration
 |  |
 | ------- |
