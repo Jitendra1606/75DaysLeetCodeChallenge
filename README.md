@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-profitable-schemes](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0879-profitable-schemes) |
 | [0907-sum-of-subarray-minimums](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0918-maximum-sum-circular-subarray) |
+| [0924-minimize-malware-spread](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0924-minimize-malware-spread) |
 | [0931-minimum-falling-path-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [0941-valid-mountain-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0941-valid-mountain-array) |
 | [0948-bag-of-tokens](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0948-bag-of-tokens) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0740-delete-and-earn](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0740-delete-and-earn) |
+| [0924-minimize-malware-spread](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0924-minimize-malware-spread) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
@@ -1106,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0841-keys-and-rooms) |
+| [0924-minimize-malware-spread](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0924-minimize-malware-spread) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1306-jump-game-iii) |
@@ -1184,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0841-keys-and-rooms) |
+| [0924-minimize-malware-spread](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0924-minimize-malware-spread) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
@@ -1303,6 +1307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0841-keys-and-rooms) |
+| [0924-minimize-malware-spread](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0924-minimize-malware-spread) |
 | [0997-find-the-town-judge](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1462-course-schedule-iv](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1462-course-schedule-iv) |
@@ -1346,6 +1351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
+| [0924-minimize-malware-spread](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0924-minimize-malware-spread) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1631-path-with-minimum-effort) |
