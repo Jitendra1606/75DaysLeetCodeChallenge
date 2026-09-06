@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1871-jump-game-vii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0992-subarrays-with-k-different-integers) |
 | [1079-letter-tile-possibilities](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1079-letter-tile-possibilities) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2029-stone-game-ix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2206-divide-array-into-equal-pairs) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -862,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0948-bag-of-tokens) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1386-cinema-seat-allocation](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
