@@ -1,35 +1,60 @@
 class Solution{
+    Integer[] dp;
     public int rob(int[] nums){
         int n = nums.length;
 
-        int[] dp = new int[n + 1];
-
-        if(n == 1) return nums[0];
-        dp[0] = 0;
-        dp[1] = nums[0];
-        dp[2] = Math.max(nums[0], nums[1]);
-
-        for(int i = 3 ; i < n + 1 ; i++){
-            int pick = nums[i - 1] + dp[i - 2];
-            int notPick = dp[i - 1];
-
-            dp[i] = Math.max(pick, notPick);
-        }
-        return dp[n];
+        dp = new Integer[n + 1];
+        return solve(n - 1, nums);
     }
 
-    public int solve(int i, int[] nums, Integer[] dp){
-        if(i >= nums.length) return 0;
-        if(i == nums.length - 1) return dp[i] = nums[nums.length - 1];
+    public int solve(int i, int[] nums){
+        if(i == 0) return nums[i];
+
+        if(i < 0) return 0;
 
         if(dp[i] != null) return dp[i];
 
-        int pick = nums[i] + solve(i + 2, nums, dp);
-        int notPick = solve(i + 1, nums, dp);
+        int pick = nums[i] + solve(i - 2, nums);
+        int notPick = solve(i - 1, nums);
 
         return dp[i] = Math.max(pick, notPick);
     }
 }
+
+
+
+// class Solution{
+//     public int rob(int[] nums){
+//         int n = nums.length;
+
+//         int[] dp = new int[n + 1];
+
+//         if(n == 1) return nums[0];
+//         dp[0] = 0;
+//         dp[1] = nums[0];
+//         dp[2] = Math.max(nums[0], nums[1]);
+
+//         for(int i = 3 ; i < n + 1 ; i++){
+//             int pick = nums[i - 1] + dp[i - 2];
+//             int notPick = dp[i - 1];
+
+//             dp[i] = Math.max(pick, notPick);
+//         }
+//         return dp[n];
+//     }
+
+//     public int solve(int i, int[] nums, Integer[] dp){
+//         if(i >= nums.length) return 0;
+//         if(i == nums.length - 1) return dp[i] = nums[nums.length - 1];
+
+//         if(dp[i] != null) return dp[i];
+
+//         int pick = nums[i] + solve(i + 2, nums, dp);
+//         int notPick = solve(i + 1, nums, dp);
+
+//         return dp[i] = Math.max(pick, notPick);
+//     }
+// }
 
 
 // class Solution{
