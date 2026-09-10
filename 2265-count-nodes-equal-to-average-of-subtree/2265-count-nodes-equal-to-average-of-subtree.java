@@ -13,29 +13,51 @@
  *     }
  * }
  */
-class Solution {
+
+class Solution{
     int ans = 0;
-
-    public int averageOfSubtree(TreeNode root) {
+    public int averageOfSubtree(TreeNode root){
         solve(root);
-
         return ans;
     }
 
-    public int[] solve(TreeNode node) {
-        if (node == null)
-            return new int[] { 0, 0 }; //storing-> [sum, cnt], at each node
+    public int[] solve(TreeNode node){
+        if(node == null) return new int[]{0, 0};
 
         int[] left = solve(node.left);
         int[] right = solve(node.right);
 
         int sum = left[0] + right[0] + node.val;
+        int cnt = left[1] + right[1] + 1;
 
-        int totalCnt = left[1] + right[1] + 1; //including root node
-
-        if (sum / totalCnt == node.val)
-            ans++;
-
-        return new int[] { sum, totalCnt };
+        if(sum / cnt == node.val) ans++;
+        return new int[]{sum, cnt};
     }
 }
+
+// class Solution {
+//     int ans = 0;
+
+//     public int averageOfSubtree(TreeNode root) {
+//         solve(root);
+
+//         return ans;
+//     }
+
+//     public int[] solve(TreeNode node) {
+//         if (node == null)
+//             return new int[] { 0, 0 }; //storing-> [sum, cnt], at each node
+
+//         int[] left = solve(node.left);
+//         int[] right = solve(node.right);
+
+//         int sum = left[0] + right[0] + node.val;
+
+//         int totalCnt = left[1] + right[1] + 1; //including root node
+
+//         if (sum / totalCnt == node.val)
+//             ans++;
+
+//         return new int[] { sum, totalCnt };
+//     }
+// }
