@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0491-non-decreasing-subsequences](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1079-letter-tile-possibilities](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1079-letter-tile-possibilities) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Divide and Conquer
@@ -849,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Greedy
 |  |
 | ------- |
@@ -1389,6 +1393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0491-non-decreasing-subsequences](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0491-non-decreasing-subsequences) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0779-k-th-symbol-in-grammar) |
 | [1386-cinema-seat-allocation](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2206-divide-array-into-equal-pairs) |
@@ -1530,4 +1535,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0197-rising-temperature](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0197-rising-temperature) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
