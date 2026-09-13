@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0646-maximum-length-of-pair-chain) |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0826-most-profit-assigning-work](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0826-most-profit-assigning-work) |
@@ -866,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
@@ -1539,4 +1543,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
