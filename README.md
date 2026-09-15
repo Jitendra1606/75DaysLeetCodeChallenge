@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2381-shifting-letters-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2418-sort-the-people) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2788-split-strings-by-separator](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2788-split-strings-by-separator) |
 | [2833-furthest-point-from-origin](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2063-vowels-of-all-substrings) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3620-network-recovery-pathways](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3620-network-recovery-pathways) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -776,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2592-maximize-greatness-of-an-array) |
@@ -901,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2542-maximum-subsequence-score](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2542-maximum-subsequence-score) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2592-maximize-greatness-of-an-array) |
