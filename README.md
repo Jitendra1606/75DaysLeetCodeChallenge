@@ -551,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1463-cherry-pickup-ii) |
 | [1510-stone-game-iv](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2063-vowels-of-all-substrings](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2063-vowels-of-all-substrings) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1314-matrix-block-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1314-matrix-block-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1712-ways-to-split-array-into-three-subarrays) |
@@ -1012,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -1475,6 +1478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2063-vowels-of-all-substrings](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2063-vowels-of-all-substrings) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 ## Rolling Hash
