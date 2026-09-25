@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0414-third-maximum-number) |
 | [0419-battleships-in-a-board](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0354-russian-doll-envelopes) |
+| [0414-third-maximum-number](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
