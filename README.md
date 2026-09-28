@@ -1579,6 +1579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1789-primary-department-for-each-employee) |
+| [1907-count-salary-categories](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1907-count-salary-categories) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Bitmask
 |  |
