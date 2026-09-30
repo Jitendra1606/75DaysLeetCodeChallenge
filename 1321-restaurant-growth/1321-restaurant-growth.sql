@@ -1,20 +1,21 @@
+-- gpt link -> https://chatgpt.com/share/6abc96d4-8b84-83ee-96a5-9e536a3175f6
 # Write your MySQL query statement below
 SELECT a.visited_on AS visited_on,
-        SUM(b.day_sum) AS amount,
-        ROUND(AVG(b.day_sum), 2) AS average_amount
-FROM
-        (SELECT visited_on, SUM(amount) AS day_sum 
-        FROM Customer 
-        GROUP BY visited_on) AS a,
+       SUM(b.day_sum) AS amount,
+       ROUND(AVG(b.day_sum), 2) AS average_amount
 
-        (SELECT visited_on, SUM(amount) AS day_sum
-        FROM Customer
-        GROUP BY visited_on) AS b
+FROM 
+       (SELECT visited_on, SUM(amount) AS day_sum
+       FROM Customer
+       GROUP BY visited_on) AS a,
+
+       (SELECT visited_on, SUM(amount) AS day_sum
+       FROM Customer
+       GROUP BY visited_on) AS b
 
 WHERE DATEDIFF(a.visited_on, b.visited_on) BETWEEN 0 AND 6
 GROUP BY a.visited_on
 HAVING COUNT(b.visited_on) = 7;
-
 
 
 -- Why GROUP BY a.visited_on?
