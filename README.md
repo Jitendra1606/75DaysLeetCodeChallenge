@@ -1576,6 +1576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1193-monthly-transactions-i) |
 | [1251-average-selling-price](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1280-students-and-examinations) |
+| [1321-restaurant-growth](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1341-movie-rating) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1683-invalid-tweets) |
