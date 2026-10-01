@@ -1583,6 +1583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1341-movie-rating) |
+| [1484-group-sold-products-by-the-date](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1667-fix-names-in-a-table](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1667-fix-names-in-a-table) |
