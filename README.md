@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
 | [1079-letter-tile-possibilities](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1079-letter-tile-possibilities) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1106-parsing-a-boolean-expression) |
@@ -971,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1106-parsing-a-boolean-expression) |
@@ -1610,5 +1612,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
