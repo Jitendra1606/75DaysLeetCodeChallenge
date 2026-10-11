@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2661-first-completely-painted-row-or-column) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2750-ways-to-split-array-into-good-subarrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2788-split-strings-by-separator](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2788-split-strings-by-separator) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -943,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2261-k-divisible-elements-subarrays](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2261-k-divisible-elements-subarrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
