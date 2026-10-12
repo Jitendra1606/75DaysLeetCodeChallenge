@@ -23,11 +23,11 @@ SELECT(
 -- SELECT IF(
 --     COUNT(DISTINCT salary) >= 2,
 --     (
---         SELECT DISTINCT salary
+--         SELECT DISTINCT salary 
 --         FROM Employee
 --         ORDER BY salary DESC
 --         LIMIT 1 OFFSET 1
---     ),
---     NULL
---     )  AS SecondHighestSalary
+--         ),
+--         NULL
+--         ) AS SecondHighestSalary
 -- FROM Employee;
