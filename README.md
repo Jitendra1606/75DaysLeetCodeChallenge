@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3620-network-recovery-pathways) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -1444,6 +1445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2206-divide-array-into-equal-pairs) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Interactive
 |  |
