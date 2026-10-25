@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1162-as-far-from-land-as-possible) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1162-as-far-from-land-as-possible) |
+| [1254-number-of-closed-islands](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1301-number-of-paths-with-max-score) |
@@ -1177,6 +1179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0841-keys-and-rooms) |
 | [0924-minimize-malware-spread](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0924-minimize-malware-spread) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1262,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1162-as-far-from-land-as-possible) |
+| [1254-number-of-closed-islands](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1345-jump-game-iv) |
@@ -1422,6 +1426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [0924-minimize-malware-spread](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0924-minimize-malware-spread) |
+| [1254-number-of-closed-islands](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1631-path-with-minimum-effort) |
