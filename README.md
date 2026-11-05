@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1345-jump-game-iv](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1345-jump-game-iv) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1288-remove-covered-intervals) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1648-sell-diminishing-valued-colored-balls) |
@@ -804,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0948-bag-of-tokens](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -851,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1300-sum-of-mutated-array-closest-to-target) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
