@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3665-twisted-mirror-path-count](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
+| [3693-climbing-stairs-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3620-network-recovery-pathways](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3620-network-recovery-pathways) |
 | [3665-twisted-mirror-path-count](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3693-climbing-stairs-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3882-minimum-xor-path-in-a-grid) |
