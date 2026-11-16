@@ -14,6 +14,7 @@ class Solution {
                 }
                 sb.append(val);
             }
+
             s = sb.toString();
         }
 
