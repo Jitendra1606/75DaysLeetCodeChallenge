@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3904-smallest-stable-index-ii) |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [4107-count-valid-suffix-sorts-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/4107-count-valid-suffix-sorts-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [4107-count-valid-suffix-sorts-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/4107-count-valid-suffix-sorts-i) |
 ## Sorting
 |  |
 | ------- |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3583-count-special-triplets) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4107-count-valid-suffix-sorts-i](https://github.com/Jitendra1606/75DaysLeetCodeChallenge/tree/master/4107-count-valid-suffix-sorts-i) |
 ## Quickselect
 |  |
 | ------- |
